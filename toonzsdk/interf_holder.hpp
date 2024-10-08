@@ -2,6 +2,7 @@
 #define UTILS_INTERFACEHOLDER_HPP__
 #include "toonz_plugin.h"
 #include "toonz_hostif.h"
+#include <memory>
 
 extern toonz::host_interface_t *ifactory_;
 
