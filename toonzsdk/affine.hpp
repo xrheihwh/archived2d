@@ -4,7 +4,7 @@
 #include <cmath>
 #include <cfloat>
 #include <cassert>
-#include <toonz_hostif.h>
+#include "toonz_hostif.h"
 #include "rect.hpp"
 
 class ToonzAffine

@@ -1,9 +1,9 @@
 #if !defined(UTILS_PARAM_TRAITS_HPP__)
 #define UTILS_PARAM_TRAITS_HPP__
 
-#include <toonz_plugin.h>
-#include <toonz_hostif.h>
-#include <toonz_params.h>
+#include "toonz_plugin.h"
+#include "toonz_hostif.h"
+#include "toonz_params.h"
 
 /* helper-types to define toonz_param_*_t's table */
 struct param_desc_t : public toonz_param_desc_t {

@@ -1,7 +1,7 @@
 #if !defined(UTILS_INTERFACEHOLDER_HPP__)
 #define UTILS_INTERFACEHOLDER_HPP__
-#include <toonz_plugin.h>
-#include <toonz_hostif.h>
+#include "toonz_plugin.h"
+#include "toonz_hostif.h"
 
 extern toonz::host_interface_t *ifactory_;
 

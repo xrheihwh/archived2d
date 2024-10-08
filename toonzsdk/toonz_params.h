@@ -1,7 +1,7 @@
 #if !defined(TOONZ_PARAMS_H__)
 #define TOONZ_PARAMS_H__
 
-#include <toonz_plugin.h>
+#include "toonz_plugin.h"
 //#include <toonz_hostif.h>
 
 #if defined(_MSC_VER)
